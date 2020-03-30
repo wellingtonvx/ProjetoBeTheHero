@@ -1,0 +1,10 @@
+instalação do pacote de Icones - react-icons
+instalação do React Dom para gerenciar as rotas - react-routes-dom
+importação de um cliente HTTP para conectar com o backend - npm install axios
+importação do react- navigation para gerenciar as rotas na aplicação mobile - npm install @react-navigation/native
+ler documentação do Expo
+importação de contant para ajustar a tela - expo install expo-constants
+importação do gerenciador de email do expo - expo install expo-mail-composer
+importação do React para importar as rotas do back end - useEfect
+criar um estado para listar as coisas - useState
+adicionar uma funcionalidade de INTL para mostar valores de dinheiro - npm install intl
